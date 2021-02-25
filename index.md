@@ -1,4 +1,4 @@
-## MyanmarFont ![Myanmar Font](https://cdn2.iconfinder.com/data/icons/flags_gosquared/32/Myanmar_flat.png)
+## MyanmarFont ![Myanmar Font](https://cdn2.iconfinder.com/data/icons/flags_gosquared/24/Myanmar_flat.png)
 Myanmar Web Font embed for every web unit from any device (Mobile/Desktop/Tablets).
 
 မြန်မာ Unicode ဖောင့်ကို Website များစွာမှ အဆင်ပြေစွာ အသုံးပြုနိုင်စေရန် ရည်ရွယ်၍ Website Fonts တစ်ခု တည်ဆောက်ပေးထားပါသည် ။
