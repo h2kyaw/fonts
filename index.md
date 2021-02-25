@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## MyanmarFont ![Myanmar Font](https://cdn2.iconfinder.com/data/icons/flags_gosquared/32/Myanmar_flat.png)
+Myanmar Web Font embed for every web unit from any device (Mobile/Desktop/Tablets).
 
-You can use the [editor on GitHub](https://github.com/h2kyaw/fonts/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+မြန်မာ Unicode ဖောင့်ကို Website များစွာမှ အဆင်ပြေစွာ အသုံးပြုနိုင်စေရန် ရည်ရွယ်၍ Website Fonts တစ်ခု တည်ဆောက်ပေးထားပါသည် ။
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Easy CSS Implementation
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## External CSS For Unicode (Full Page Font)
 ```
+<link rel="stylesheet" type="text/css" href="https://h2kyaw.github.io/fonts/unicode-full.css"/>
+```
+All HTML text are transformed into unicode font.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## External CSS For Unicode (Only Text Tags)
+```
+<link rel="stylesheet" type="text/css" href="https://h2kyaw.github.io/fonts/unicode-standard.css"/>
+```
+Text tags text are transformed into unicode font.
 
-### Jekyll Themes
+## External CSS For Unicode (Class Integration)
+```
+<link rel="stylesheet" type="text/css" href="https://h2kyaw.github.io/fonts/unicode-class.css"/>
+```
+You need to declare "Unicode" class inside html.
+Example 
+```<p class='Unicode'> မြန်မာယူနီကုဒ်ဖောင့် ဖြစ်ပါသည် </p>```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/h2kyaw/fonts/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Raw Fonts
+```https://h2kyaw.github.io/fonts/myanmar3.ttf```
 
-### Support or Contact
+```https://h2kyaw.github.io/fonts/myanmar3.woff```
+## Built With
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+CSS
+
+## Author
+
+* **[Hein Htet Kyaw](https://github.com/h2kyaw)**
